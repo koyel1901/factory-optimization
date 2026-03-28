@@ -16,9 +16,6 @@ nassau_candy_project/
 ├── models/
 │   ├── shipping_model.pkl          # Trained best model
 │   └── feature_columns.pkl         # Feature column list
-└── assets/
-    ├── nassaucandy.png
-    └── unified_logo.png
 ```
 
 ## Quick Start
